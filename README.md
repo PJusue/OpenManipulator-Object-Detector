@@ -26,4 +26,4 @@ https://github.com/PJusue/TFMiniPlus-Arduino
 https://github.com/ROBOTIS-GIT/open_manipulator
 
 # Video 
-[![Watch the video](https://robots.ros.org/assets/img/robots/openmanipulator/openmanipulator.png)](https://github.com/PJusue/OpenManipulator-Object-Detector/blob/master/video_2019-08-12_16-01-49.mp4)
+In the repository there is a video showing how it works
